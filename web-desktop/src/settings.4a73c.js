@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default","brick","plate","ball"],collisionMatrix:[[false],[false,false,null,true],[false,false,false,true],[false,true,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/game.fire",orientation:"",jsList:[],bundleVers:{internal:"d17e2",main:"bf6fe"}};
