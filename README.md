@@ -5,3 +5,5 @@
 ## 摘星星(PickStars)
 
 ## 五子棋(GoBang)
+
+## 打砖块(Bricks)
