@@ -6,4 +6,6 @@
 
 ## 五子棋(GoBang)
 
+## 消消乐(Xiaoxiaole)
+
 ## 打砖块(Bricks)
